@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#_Projects\\InventoryMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|d:\\programming\\c#_projects\\inventoryms\\warehouse management system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|d:\\programming\\c#_projects\\inventoryms\\warehouse management system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|d:\\programming\\c#_projects\\inventoryms\\warehouse management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|d:\\programming\\c#_projects\\inventoryms\\warehouse management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|d:\\programming\\c#_projects\\inventoryms\\warehouse management system\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E69BC3-FCE7-44BD-8358-A7646EFA918E}|WAREHOUSE MANAGEMENT SYSTEM\\WAREHOUSE MANAGEMENT SYSTEM.csproj|solutionrelative:warehouse management system\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:28:47.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:31:58.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:33:50.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T13:36:29.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\C#_Projects\\InventoryMS\\WAREHOUSE MANAGEMENT SYSTEM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WAREHOUSE MANAGEMENT SYSTEM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:12:34.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
